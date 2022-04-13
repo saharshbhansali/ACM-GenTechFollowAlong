@@ -1,4 +1,4 @@
-# ACM VIT follow along adding and doing stuff
+# ACM VIT GenTech Git and GitHub Session
 
 ## Basic Git Commands
 
@@ -137,5 +137,5 @@ This command is used to duplicate an existing repository.
 ```git clone <repository URL>```
 
 ## Tutorial
-  Link : //youtu.be/upSQrImAqm4
+  Link : //does not exist
 
