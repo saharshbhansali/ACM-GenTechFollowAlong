@@ -122,9 +122,11 @@ This command syncs the changes made on a specified branch to the specified remot
 
 In case of issues with authorisation, use the following command(s) or HTTPS upload rather than SSH
 
-```git config --local credential.helper ""```
-SSH: ```git remote set-url <remote> git@github.com:<username>/<repo>.git```
-HTTPS: ```git remote set-url <remote> https://<username>@github.com/<username>/<repository name>.git```
+  ```git config --local credential.helper ""```
+
+  SSH: ```git remote set-url <remote> git@github.com:<username>/<repo>.git```
+
+  HTTPS: ```git remote set-url <remote> https://<username>@github.com/<username>/<repository name>.git```
 
 * ####    Sync __From__ Upstream
 
