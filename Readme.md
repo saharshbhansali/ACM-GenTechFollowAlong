@@ -1,4 +1,4 @@
-# ACM VIT follow along
+# ACM VIT follow along adding and doing stuff
 
 ## Basic Git Commands
 
