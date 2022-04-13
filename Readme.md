@@ -58,7 +58,7 @@ This command reverts all the commits after the specified commit. But, the locall
 
 This command reverts to the specified commit. The locally made changes are __not preserved__ and are discarded.
 
-```git reset –hard <commit>```
+```git reset --hard <commit>```
 
 * ###    Branching
 
@@ -100,7 +100,7 @@ This command shows the differences between staged and unstaged versions of the f
 
 This command shows the differences between the files in the staging area and the latest version present.
 
-```git diff –staged```
+```git diff --staged```
 
 This command shows the differences between two specified branches.
 
