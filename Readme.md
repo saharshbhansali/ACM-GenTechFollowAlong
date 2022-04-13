@@ -10,11 +10,11 @@ This command is used to initialize an empty repository.
 
 * ###    Configuration
 
-This command sets the name and email address of the author of the commit. The `-global` flag is optional
+This command sets the name and email address of the author of the commit. The `--global` flag is optional
 
-```git config –global user.name “<name>”```
+```git config ––global user.name “<name>”```
 
-``` git config –global user.email “<email address>”```
+``` git config ––global user.email “<email address>”```
 
 * ###    Staging
 
