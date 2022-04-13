@@ -42,7 +42,7 @@ This command saves (or snapshots) the file permanently to the version history of
 
 ```git commit -m “<commit message>”```
 
-This command works similarly to first doing `git add` on all modified and deleted files and then `git commit` for those files.
+This command works similarly to first doing `git add` on all _tracked_ (modified and deleted) files and then `git commit` for those files.
 
 ```git commit -a -m “<commit message>”```
 
